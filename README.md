@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎯 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
 <p align="center">
-  <img src="[https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg](https://media.istockphoto.com/id/1479759169/photo/data-science-and-big-data-technology-data-scientist-computing-analysing-and-visualizing.jpg?b=1&s=612x612&w=0&k=20&c=BtbSZHTN8m1MSDLg0xNDGE1eZEUuWPad926gJEunxV8=)" width="350"/>
+  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="350"/>
 </p>
 
 ---
