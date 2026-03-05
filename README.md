@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
 <p align="center">
-  <img src="https://github.com/Ibrahim-Abu-Asaad/assets/raw/main/coding.gif" width="400"/>
+  <img src="https://www.pinterest.com/pin/924363892285978547/" width="400"/>
 </p>
 
 ---
