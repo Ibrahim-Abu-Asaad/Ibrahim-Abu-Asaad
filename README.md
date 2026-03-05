@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 # Hi 👋 I'm Ibrahim Abu-Asaad
 ### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University
 ---
-
 ### 💻 Backend Developer in Progress
 
 - 🔭 I am currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering**.
 
-My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
+- 🎯 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
 <p align="center">
   <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="350"/>
