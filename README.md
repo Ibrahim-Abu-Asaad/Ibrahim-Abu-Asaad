@@ -17,57 +17,59 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Ibrahim Abu-Assad 👋
+# Hi 👋 I'm Ibrahim Abu-Asaad
 
-### Backend Developer in Progress
+💻 Backend Developer in Progress | .NET Enthusiast
 
-I am currently focusing on learning **Backend Development** and building a strong foundation in software engineering and databases.
+I am currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering and databases**.
 
-My goal is to become a **.NET Backend Developer**, gain real-world experience, and work on meaningful projects.
+My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Currently learning **Backend Development**
-* 💻 Strong focus on **C# and the .NET ecosystem**
-* 🧠 Interested in **software architecture, databases, and clean code**
-* 📈 My goal is to become a **Full Stack Developer**
-* 🔜 After mastering backend, I plan to learn **Frontend development**
+* 🎯 Focused on **Backend Development**
+* 💻 Learning and working with **C# and the .NET ecosystem**
+* 🧠 Interested in **databases, backend systems, and clean code**
+* 📚 Currently improving my backend development skills
+* 🌐 After mastering backend, I plan to learn **Frontend development**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Technologies I Know
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css" />
+</p>
+
+### Programming
 
 * C++
 * C#
-* SQL
 
-**Backend & Databases**
+### Backend & Databases
 
 * ADO.NET
+* SQL
 * SQL Server
-* Database Design
+
+### Concepts
+
 * Object-Oriented Programming (OOP)
-
-**Web Basics**
-
-* HTML
-* CSS
+* Database Fundamentals
 
 ---
 
 ## 📚 Currently Learning
 
-Right now I am improving my backend skills and working toward mastering:
+I am currently improving my knowledge in backend development:
 
 * Advanced **C#**
 * **Entity Framework**
 * **LINQ**
 * **ASP.NET Core**
-* Building real backend projects and APIs
+* Building real backend applications and APIs
 
 ---
 
@@ -81,10 +83,29 @@ Right now I am improving my backend skills and working toward mastering:
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim-Abu-Asaad\&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Abu-Asaad\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
 
 * GitHub: https://github.com/Ibrahim-Abu-Asaad
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Always learning. Always building.*
+
