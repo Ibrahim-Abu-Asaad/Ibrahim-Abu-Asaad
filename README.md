@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-### 🎓 IT Student at the Faculty of Informatics Engineering – Latakia University
+### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University
 
 ### 💻 Backend Developer in Progress
 
