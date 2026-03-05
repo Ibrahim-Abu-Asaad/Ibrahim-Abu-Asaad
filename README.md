@@ -46,7 +46,7 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 
 ## 📊 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=tokyonight)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=radical)
 
 ---
 
