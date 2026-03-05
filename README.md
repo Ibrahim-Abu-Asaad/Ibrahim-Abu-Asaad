@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
-### 🎓 IT Student at the Faculty of Informatics Engineering – Latakia University
+### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University
 ---
 
 ### 💻 Backend Developer in Progress
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="400"/>
+  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="350"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 ## 🧠 Technologies I Know
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css" />
 </p>
 
 - C++
