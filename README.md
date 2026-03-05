@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
+🎓 I am studying Information Technology at the Faculty of Informatics Engineering – Latakia University.
+
 💻 Backend Developer in Progress
 
 I am currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering**.
