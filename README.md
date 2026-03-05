@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-### 🎓 I am studying Information Technology at the Faculty of Informatics Engineering – Latakia University.
+### 🎓 IT Student at the Faculty of Informatics Engineering – Latakia University
 
 ### 💻 Backend Developer in Progress
 
@@ -34,14 +34,11 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 <img src="https://skillicons.dev/icons?i=cpp,cs,html,css" />
 </p>
 
-
 * C++
 * C#
-
 * ADO.NET
 * SQL
 * SQL Server
-
 * Object-Oriented Programming (OOP)
 * Database Fundamentals
 
@@ -49,20 +46,20 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 
 ## 📊 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad\&show_icons=true\&theme=tokyonight)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Abu-Asaad\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Abu-Asaad&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Ibrahim-Abu-Asaad
-* Email : i6802275@gmail.com
+* Email: [i6802275@gmail.com](mailto:i6802275@gmail.com)
 
 ---
 
