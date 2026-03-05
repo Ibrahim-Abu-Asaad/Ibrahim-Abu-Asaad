@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
-🌍 Based in Syria 🇸🇾
+🌍 Based in Syria
 ### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University 🇸🇾
 ---
 ### 💻 Backend Developer in Progress
