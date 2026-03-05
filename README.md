@@ -46,13 +46,13 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 
 ## 📊 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=radical)
+![Ibrahim's GitHub stats](https://github-readme-stats.deno.dev/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Abu-Asaad&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.deno.dev/api/top-langs?username=Ibrahim-Abu-Asaad&layout=compact&theme=tokyonight)
 
 ---
 
