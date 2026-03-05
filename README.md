@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-## 🎓 I am studying Information Technology at the Faculty of Informatics Engineering – Latakia University.
+### 🎓 I am studying Information Technology at the Faculty of Informatics Engineering – Latakia University.
 
 ### 💻 Backend Developer in Progress
 
