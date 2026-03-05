@@ -66,9 +66,6 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 
 ⭐ *Always learning. Always building.*
 -->
-
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Ibrahim-Abu-Asaad.Ibrahim-Abu-Asaad)](https://github.com/Ibrahim-Abu-Asaad)
-
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
 ### 🎓 IT Student at the Faculty of Informatics Engineering – Latakia University
@@ -94,6 +91,8 @@ My goal is to become a **professional .NET Backend Developer**, build real-world
 
 - C++
 - C#
+- HTML
+- CSS
 - ADO.NET
 - SQL
 - SQL Server
