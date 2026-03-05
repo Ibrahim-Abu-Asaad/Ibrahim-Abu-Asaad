@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
-### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University
+🌍 Based in Syria 🇸🇾
+### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University 🇸🇾
 ---
 ### 💻 Backend Developer in Progress
 
@@ -50,8 +51,15 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ibrahim--Abu--Asaad-black?style=flat-square&logo=github)](https://github.com/Ibrahim-Abu-Asaad)  
-[![Email](https://img.shields.io/badge/Email-i6802275@gmail.com-c14438?style=flat-square&logo=gmail)](mailto:i6802275@gmail.com)
+## 📫 Connect With Me
+
+<!--
+[![GitHub](https://img.shields.io/badge/GitHub-Ibrahim--Abu--Asaad-black?style=flat-square\&logo=github)](https://github.com/Ibrahim-Abu-Asaad)
+-->
+[![Email](https://img.shields.io/badge/Email-i6802275@gmail.com-c14438?style=flat-square\&logo=gmail)](mailto:i6802275@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Abu--Asaad-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/ibrahim-abu-asaad-42676a395/)
+[![Facebook](https://img.shields.io/badge/Facebook-Ibrahim%20Abu--Asaad-1877F2?style=flat-square\&logo=facebook)](https://www.facebook.com/profile.php?id=61571090855858)
+
 
 ---
 
