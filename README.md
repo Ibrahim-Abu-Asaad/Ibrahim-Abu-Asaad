@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 - SQL
 - SQL Server
 - ADO.NET
-- Object-Oriented Programming (OOP)
-- Database Fundamentals
 
 ---
 
