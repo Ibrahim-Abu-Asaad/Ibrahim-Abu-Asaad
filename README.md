@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 
 ---
 
+
+<!--
+
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -61,6 +64,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+-->
+
 
 ## 📫 Connect With Me
 
