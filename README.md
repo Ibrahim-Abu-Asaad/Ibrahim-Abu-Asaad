@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-### 🎓 IT Student | Faculty of Informatics Engineering | **University of Latakia** 🇸🇾
+### 🎓 IT Student | Faculty of Informatics Engineering | University of Latakia 🇸🇾
 #### 🌍 Based in Syria
 
 ---
 
 ### 💻 Backend Developer in Progress
 
-- 🔭 I am currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering**.
+- 🔭 I'm currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering**.
 
 - 🎯 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
@@ -55,6 +55,14 @@ https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg
 -->
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,html,css" /> </p><p align="center"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Abu-Asaad&show_icons=true&theme=radical" width="400"/>
+</p>
 
 ---
 
