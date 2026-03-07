@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-### 🎓 IT Student At The Faculty Of Informatics Engineering – Latakia University 🇸🇾
+### 🎓 IT Student | Faculty of Informatics Engineering | University of Latakia 🇸🇾
 #### 🌍 Based in Syria
+
 ---
+
 ### 💻 Backend Developer in Progress
 
 - 🔭 I am currently focused on learning **Backend Development with the .NET ecosystem** and building a strong foundation in **software engineering**.
