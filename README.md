@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 - 🎯 Exploring my path toward becoming a professional **Backend Developer** and growing into **Full Stack**.
 
-
-https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg
-
-
 <p align="center">
   <img src="https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGVjaG5vbG9neSUyMEJyYWlufGVufDB8fDB8fHww" width="350"/>
 </p>
