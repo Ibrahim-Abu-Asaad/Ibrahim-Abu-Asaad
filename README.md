@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 I'm Ibrahim Abu-Asaad
 
-### 🎓 IT Student | Faculty of Informatics Engineering | University of Latakia 🇸🇾
+### 🎓 IT Student | Faculty of Informatics Engineering | **University of Latakia** 🇸🇾
 #### 🌍 Based in Syria
 
 ---
