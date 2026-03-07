@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - SQL Server
 - ADO.NET
 
+- <p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,html,css" /> </p><p align="center"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> </p>
+
 ---
 
 ## 📫 Connect With Me
