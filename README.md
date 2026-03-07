@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 
 - 🎯 My goal is to become a **professional .NET Backend Developer**, build real-world projects, and eventually grow into a **Full Stack Developer**.
 
+<!-- 
+https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg
+-->
+
 <p align="center">
-  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="350"/>
+  <img src="https://www.pinterest.com/pin/36099234503227329/" width="350"/>
 </p>
 
 ---
