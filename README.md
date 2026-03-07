@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Technologies I Know
+## ⚙️ Technologies
 
 <!--
 <p align="center">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Turning ideas into reality.*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
