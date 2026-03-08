@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 💻 Backend Developer in Progress
 
-- 🔭 Currently focused on learning **Backend Development with the .NET ecosystem** and building a strong **software engineering** foundation.
+- 🔭 Currently focused on learning **Backend Development with the .NET ecosystem** and building a strong **Software Engineering** foundation.
 
 - 🎯 Exploring my path toward becoming a professional **Backend Developer** and growing into **Full Stack Developer**.
 
