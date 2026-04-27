@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 💻 Aspiring Full-Stack Developer
 
-🔭 Focus: Currently deep-diving into Backend Development with .NET and strengthening my Software Engineering foundation.
+- 🔭 Focus: Currently deep-diving into Backend Development with .NET and strengthening my Software Engineering foundation.
 - 💡 **Philosophy:** I believe in diving deep into technical details and pushing my limits to build impactful, real-world projects.
 - 👥 **Values:** Passionate about innovation through teamwork and supporting fellow hard-working developers.
 
